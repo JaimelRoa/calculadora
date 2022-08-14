@@ -1,6 +1,6 @@
 # calculadora
-simple calculadora echa en javascript vanilla
+simple calculadora hecha en javascript vanilla
 ### vista previa
 <img src="./preview.jpg">
 
-Echo por Jaimel Roa &copy; 2022
+hecho por Jaimel Roa &copy; 2022
